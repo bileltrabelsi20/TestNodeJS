@@ -10,7 +10,7 @@ const  userApi = require ('./routes/userApi');
 const commandeApi = require ('./routes/commandeApi');
 
 const mailer = require ('./routes/mailer');
-const upload = require ('./routes/upload')
+const upload = require ('./routes/uploadOne')
 var multer  = require('multer');
 
 
